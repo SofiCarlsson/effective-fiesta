@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\CVtest\\CVtest.csproj",
+      "projectUniqueName": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\effective-fiesta\\CVtest\\CVtest.csproj",
       "projectName": "CVtest",
-      "projectPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\CVtest\\CVtest.csproj",
+      "projectPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\effective-fiesta\\CVtest\\CVtest.csproj",
       "packagesPath": "C:\\Users\\carls\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\CVtest\\obj\\",
+      "outputPath": "C:\\Users\\carls\\Documents\\Örebro universitet\\.NET\\Projekt\\effective-fiesta\\CVtest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carls\\AppData\\Roaming\\NuGet\\NuGet.Config",
