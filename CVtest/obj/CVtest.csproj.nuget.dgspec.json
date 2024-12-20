@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hanna\\Desktop\\ProjektTEST\\CVtest\\CVtest.csproj": {}
+    "C:\\Users\\malin\\OneDrive\\Dokument\\GitHub\\effective-fiesta\\CVtest\\CVtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hanna\\Desktop\\ProjektTEST\\CVtest\\CVtest.csproj": {
+    "C:\\Users\\malin\\OneDrive\\Dokument\\GitHub\\effective-fiesta\\CVtest\\CVtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hanna\\Desktop\\ProjektTEST\\CVtest\\CVtest.csproj",
+        "projectUniqueName": "C:\\Users\\malin\\OneDrive\\Dokument\\GitHub\\effective-fiesta\\CVtest\\CVtest.csproj",
         "projectName": "CVtest",
-        "projectPath": "C:\\Users\\hanna\\Desktop\\ProjektTEST\\CVtest\\CVtest.csproj",
-        "packagesPath": "C:\\Users\\hanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hanna\\Desktop\\ProjektTEST\\CVtest\\obj\\",
+        "projectPath": "C:\\Users\\malin\\OneDrive\\Dokument\\GitHub\\effective-fiesta\\CVtest\\CVtest.csproj",
+        "packagesPath": "C:\\Users\\malin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malin\\OneDrive\\Dokument\\GitHub\\effective-fiesta\\CVtest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\malin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
