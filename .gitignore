@@ -396,13 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-*.cs
 *.cache
 *.cache
 *.editorconfig
 *.json
 *.props
-*.cs
 *.cache
 *.cache
 *.json
