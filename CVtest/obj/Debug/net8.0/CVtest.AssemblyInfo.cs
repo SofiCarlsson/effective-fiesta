@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CVtest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76572e9f8a3d59cf01c5fbf0633b38ac97e4af1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ece770115952bf68564fbfa71b76910675b513cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CVtest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CVtest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
