@@ -397,11 +397,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.cache
-*.cache
 *.editorconfig
 *.json
 *.props
-*.cache
-*.cache
-*.json
-*.cache
+/CVtest/obj/Debug/net8.0
