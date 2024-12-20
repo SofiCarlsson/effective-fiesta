@@ -1,6 +1,12 @@
-﻿namespace CVtest.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace CVtest.Controllers
 {
-    public class AccountController
+    public class AccountController : Controller
     {
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }
